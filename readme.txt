@@ -1,3 +1,4 @@
 D:\Git\GitTest
-
-Git 中文 2014/06/24
+Git is a distributed version control system.
+Git is free software.
+Git 中文123 2014/06/24
